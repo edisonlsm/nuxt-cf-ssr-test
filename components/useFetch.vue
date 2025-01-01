@@ -1,4 +1,5 @@
 <template>
+  useFetch
   <pre>{{ data }}</pre>
   <pre>{{ error }}</pre>
 </template>

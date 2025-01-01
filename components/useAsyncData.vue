@@ -1,4 +1,5 @@
 <template>
+  useAsyncData
   <pre>{{ data }}</pre>
   <pre>{{ error }}</pre>
 </template>
